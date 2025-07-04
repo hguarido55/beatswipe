@@ -2,7 +2,7 @@
 
 ## 🌟 Concepto
 
-**BeatSwipe** es una aplicación web diseñada para revolucionar la forma en que descubrimos música y conectamos con otras personas a través de nuestros gustos musicales. Inspirada en la dinámica adictiva de apps como Tinder, BeatSwipe utiliza el gesto de *swipe* ➡️⬅️ y el scroll infinito para ofrecer una experiencia rápida, sencilla y emocionalmente gratificante.
+**BeatSwipe** es una aplicación web diseñada para revolucionar la forma en que descubrimos música y conectamos con otras personas a través de nuestros gustos musicales. BeatSwipe utiliza el gesto de *swipe* ➡️⬅️ y el scroll infinito para ofrecer una experiencia rápida, sencilla y emocionalmente gratificante.
 
 En BeatSwipe, los usuarios pueden subir fragmentos cortos de audio 🎵 (clips de 5 a 10 segundos) de sus canciones favoritas, y explorar un feed infinito de clips subidos por otros usuarios. Al hacer swipe y mostrar interés por un clip, el usuario desbloquea información valiosa: el nombre de la canción 🎤 y el perfil del usuario que la compartió, incluyendo playlists personalizadas y más clips musicales.
 
