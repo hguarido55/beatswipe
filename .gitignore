@@ -1,0 +1,28 @@
+# Node modules
+**/node_modules/
+**/api/node_modules/
+**/frontend/node_modules/
+
+# Build outputs
+**/api/dist/
+**/frontend/dist/
+**/frontend/build/
+.vite/
+
+# Env files
+**/.env
+**/.env.local
+**/api/.env
+**/frontend/.env.local
+
+# VS Code
+.vscode/
+
+# Logs
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
